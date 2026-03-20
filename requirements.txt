@@ -1,0 +1,8 @@
+requests
+pandas
+geopandas
+inflection
+pymongo
+openpyxl
+xlrd
+python-dotenv
